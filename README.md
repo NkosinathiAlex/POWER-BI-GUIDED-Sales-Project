@@ -9,8 +9,8 @@ automate them to reduced manual time spent in Data Gathering</p>
 <h3>Stakeholders of the Project</h3>
 
 <li>
-  <ol>Sales Director</ol>
-  <ol>Marketing Team</ol>
+  <ul>Sales Director</ull>
+  <ul>Marketing Team</ul>
   <ol>Customer Service Team</ol>
   <ol>Data & Analytics Team</ol>
   <ol>IT</ol>
